@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## ScreenShots
+![Screenshot 2023-09-17 221006](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/08997fe4-52c9-4028-ab91-5056be45e2c1)
+---
+![Screenshot 2023-09-17 221047](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/0b3b344e-909d-4abb-a0ec-ce6ce6367727)
+---
+![Screenshot 2023-09-17 221027](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/5dba4f09-6d99-4d92-9ac4-07a39edb5b3f)
+---
+![Screenshot 2023-09-17 221220](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/f84eeb12-5075-4b9b-8b96-8fc27d900986)
+---
+![Screenshot 2023-09-17 221203](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/27af76a7-3442-475f-baea-427d2ce9bd96)
+---
+![Screenshot 2023-09-17 221142](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/0fed1f42-2882-425f-9f81-12b322bc2026)
+---
+![Screenshot 2023-09-17 221124](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/badf57b7-5c3e-4e6a-b110-56e71c75f240)
+---
+![Screenshot 2023-09-17 221110](https://github.com/SharmaKharanshu/Poster-Harbor-Client/assets/138291947/0d9ec622-9664-4a9f-be8b-282a56b4662a)
+---
+
